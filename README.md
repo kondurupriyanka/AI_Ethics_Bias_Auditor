@@ -13,7 +13,9 @@ A web-based tool to **analyze and detect potential ethical issues and biases** i
 
 ## Images
 
-![a1](ethifind-core-main\src\assets\a1.jpg) ![a2](ethifind-core-main\src\assets\a2.jpg)
+![Image 1](ethifind-core-main/src/assets/a1.jpg)
+![Image 2](ethifind-core-main/src/assets/a2.jpg)
+
 
 ## How It Works
 
