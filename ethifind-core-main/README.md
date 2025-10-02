@@ -1,26 +1,37 @@
-# Welcome to your Lovable project
+# AI Ethics and Bias Auditor
 
-## Project info
+A web-based tool to **analyze and detect potential ethical issues and biases** in AI models and datasets. This project helps developers, researchers, and organizations identify bias in AI systems and improve model fairness and transparency.
 
-**URL**: https://lovable.dev/projects/bc62c94b-ba08-49de-9f11-b5505c53a586
+## Features
 
-## How can I edit this code?
+- **Bias Detection**: Scans datasets and AI outputs for gender, racial, and other biases.
+- **Ethical Audit**: Evaluates AI model decisions to ensure ethical compliance.
+- **Interactive Dashboard**: Visualizes bias metrics and audit results in an easy-to-understand interface.
+- **Customizable Checks**: Users can define specific fairness rules or criteria for their AI models.
+- **Exportable Reports**: Generates downloadable reports summarizing the bias and ethical assessment.
+- **User-Friendly Interface**: Simple web interface that requires no coding knowledge.
 
-There are several ways of editing your application.
+## Images
 
-**Use Lovable**
+![a1](a1.jpg) ![a2](a2.jpg)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bc62c94b-ba08-49de-9f11-b5505c53a586) and start prompting.
+## How It Works
 
-Changes made via Lovable will be committed automatically to this repo.
+1. Upload your dataset or AI model outputs.
+2. The tool analyzes data for biases and ethical concerns.
+3. Provides a detailed report with visualizations and recommendations.
+4. Helps teams take action to improve AI fairness and ethics.
 
-**Use your preferred IDE**
+## Technologies Used
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **Frontend**: Vite, TypeScript, React, shadcn-ui, Tailwind CSS
+- **Backend**: Python 
+- **Data Analysis**: Pandas, NumPy, Scikit-learn
+- **Visualization**: Matplotlib, Seaborn, Plotly
+- **Deployment**: Vercel
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
+## Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
@@ -35,39 +46,3 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/bc62c94b-ba08-49de-9f11-b5505c53a586) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
