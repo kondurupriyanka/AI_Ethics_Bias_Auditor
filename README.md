@@ -37,10 +37,10 @@ A web-based tool to **analyze and detect potential ethical issues and biases** i
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone https://github.com/kondurupriyanka/AI_Ethics_Bias_Auditor.git
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd ethifind-core-main
 
 # Step 3: Install the necessary dependencies.
 npm i
