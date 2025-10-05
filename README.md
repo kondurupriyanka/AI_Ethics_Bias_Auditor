@@ -17,8 +17,15 @@ https://ai-ethics-bias-auditor-analayzer.vercel.app/
 
 ## Images
 
-![Image 1](ethifind-core-main/src/assets/a1.jpg)
-![Image 2](ethifind-core-main/src/assets/a2.jpg)
+![Image 1](ethisphere-guard-main/a1.jpg)
+![Image 1](ethisphere-guard-main/a2.jpg)
+![Image 1](ethisphere-guard-main/a3.jpg)
+![Image 1](ethisphere-guard-main/a5.jpg)
+![Image 1](ethisphere-guard-main/a6.jpg)
+![Image 1](ethisphere-guard-main/a7.jpg)
+![Image 1](ethisphere-guard-main/a8.jpg)
+![Image 1](ethisphere-guard-main/a9.jpg)
+
 
 
 ## How It Works
