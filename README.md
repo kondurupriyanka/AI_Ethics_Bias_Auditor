@@ -11,8 +11,11 @@ A web-based tool to *analyze and detect potential ethical issues and biases* in 
 - *Exportable Reports*: Generates downloadable reports summarizing the bias and ethical assessment.
 - *User-Friendly Interface*: Simple web interface that requires no coding knowledge.
 
+## Demo
+
+https://ai-ethics-bias-auditor-analayzer.vercel.app/
+
 ## Images
-https://ethisphere-guard.lovable.app/
 
 ![Image 1](ethifind-core-main/src/assets/a1.jpg)
 ![Image 2](ethifind-core-main/src/assets/a2.jpg)
